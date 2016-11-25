@@ -1,6 +1,6 @@
 # Docker
 
-Electron Release Server have `Dockerfile` and `docker-compose.yml`.
+Electron Release Server has a `Dockerfile` and `docker-compose.yml`.
 So, you can use [docker](https://www.docker.com/) and [docker-compose](https://github.com/docker/compose).
 
 ## Requirements
